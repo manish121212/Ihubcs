@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "elastic.server.host",
+    "type": "java.lang.String",
+    "description": "Specify host for elastic server"
+  },
+  {
+    "name": "elastic.server.protocol",
+    "type": "java.lang.String",
+    "description": "Specify protocol(http/https) for elastic server"
+  },
+  {
+    "name": "elastic.server.port",
+    "type": "java.lang.String",
+    "description": "Specify port for elastic server"
+  },
+  {
+    "name": "elastic.server.index",
+    "type": "java.lang.String",
+    "description": "Specify which index of elastic search to query"
+  },
+  {
+    "name": "elastic.server.indexType",
+    "type": "java.lang.String",
+    "description": "Specify index type of elastic search"
+  },
+  {
+    "name": "location.config.file.servicenameresolver",
+    "type": "java.lang.String",
+    "description": "Absolute URL of service name resolver json file. Located in config inside frontend folder"
+  }
+]}
